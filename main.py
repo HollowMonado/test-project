@@ -1,1 +1,5 @@
-print("bok")
+def funkcija():
+    print("bok")
+
+
+funkcija()
